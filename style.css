@@ -1,0 +1,39 @@
+html, body {
+	background-color: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+.zawartosc
+{
+	margin: 0 auto;
+	width: 80%;
+}
+.banner 
+{
+	background-color: #FB584E;
+	color: #FFFAA3;
+	height: 100px;
+}
+.menu{
+	background-color: #E3BE46;
+	color: #E37846;
+	width: 20%;
+	float: left;
+	height: 100px;
+}
+
+#dane{
+	background-color: #FAB75A;
+	color: #FFFAA3;
+	width: 80%;
+	float: left;
+	height: 100px;
+}
+#stopka
+{
+	clear: left; 
+	background-color: #E37846;
+	color: black;
+	height: 100px;
+}
